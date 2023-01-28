@@ -63,8 +63,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![](selection.png)
-![](insertion.png)
+![](selection.png) ![selection](https://user-images.githubusercontent.com/119401150/215271181-d8ef4d27-7779-41b9-8b07-4cb506de5a1d.png)
+
+![](insertion.png)![insertion](https://user-images.githubusercontent.com/119401150/215271284-273ecb7d-b326-4c7f-8889-35eb33e25969.png)
+
 
 
 ## Result:
